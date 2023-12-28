@@ -1,0 +1,10 @@
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\bin\Debug\BorrowAndRepay.exe.config
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\bin\Debug\BorrowAndRepay.exe
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\bin\Debug\BorrowAndRepay.pdb
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.csproj.AssemblyReference.cache
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.Form1.resources
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.Properties.Resources.resources
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.csproj.GenerateResource.cache
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.csproj.CoreCompileInputs.cache
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.exe
+C:\Users\leojian\source\repos\BorrowAndRepay\BorrowAndRepay\obj\Debug\BorrowAndRepay.pdb

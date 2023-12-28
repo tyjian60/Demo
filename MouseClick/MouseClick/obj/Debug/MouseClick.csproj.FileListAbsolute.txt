@@ -1,0 +1,10 @@
+C:\Users\leojian\source\repos\MouseClick\MouseClick\bin\Debug\MouseClick.exe.config
+C:\Users\leojian\source\repos\MouseClick\MouseClick\bin\Debug\MouseClick.exe
+C:\Users\leojian\source\repos\MouseClick\MouseClick\bin\Debug\MouseClick.pdb
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.csproj.AssemblyReference.cache
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.Form1.resources
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.Properties.Resources.resources
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.csproj.GenerateResource.cache
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.csproj.CoreCompileInputs.cache
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.exe
+C:\Users\leojian\source\repos\MouseClick\MouseClick\obj\Debug\MouseClick.pdb
