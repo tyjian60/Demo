@@ -21,28 +21,29 @@ namespace gomoku
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
- 
-            Piece piece = game.PlaceAPiece(e.X, e.Y);
-            if (piece != null)
+            if (game.Winner == PieceType.NONE)
             {
-                this.Controls.Add(piece);
+                Piece piece = game.PlaceAPiece(e.X, e.Y);
+                if (piece != null)
+                {
+                    this.Controls.Add(piece);
 
-                // 檢查是否有人獲勝
-                if (game.Winner == PieceType.BLACK)
-                {
-                    MessageBox.Show("黑子獲勝");
-                }
-                else if (game.Winner == PieceType.WHITE)
-                {
-                    MessageBox.Show("白子獲勝");
+                    // 檢查是否有人獲勝
+                    if (game.Winner == PieceType.BLACK)
+                    {
+                        MessageBox.Show("黑子獲勝");
+                    }
+                    else if (game.Winner == PieceType.WHITE)
+                    {
+                        MessageBox.Show("白子獲勝");
+                    }
                 }
             }
-            
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)
         {
-            if (game.CanBePlaced(e.X,e.Y))
+            if (game.CanBePlaced(e.X,e.Y) && game.Winner == PieceType.NONE)
             {
                 this.Cursor = Cursors.Hand;
             } else
@@ -55,7 +56,7 @@ namespace gomoku
         {
             game = new Game();
             this.Controls.Clear();
-            InitializeComponent();
+            this.Controls.Add(resetButton);
         }
     }
 }

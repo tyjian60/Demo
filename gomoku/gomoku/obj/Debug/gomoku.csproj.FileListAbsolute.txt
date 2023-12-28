@@ -8,3 +8,13 @@ C:\Users\leojian\source\repos\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateReso
 C:\Users\leojian\source\repos\gomoku\gomoku\obj\Debug\gomoku.csproj.CoreCompileInputs.cache
 C:\Users\leojian\source\repos\gomoku\gomoku\obj\Debug\gomoku.exe
 C:\Users\leojian\source\repos\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\gomoku.Form1.resources
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\leojian\source\myDemo\Demo\gomoku\gomoku\obj\Debug\gomoku.pdb

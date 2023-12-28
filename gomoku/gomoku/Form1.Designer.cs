@@ -34,9 +34,10 @@
             // resetButton
             // 
             this.resetButton.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.resetButton.Location = new System.Drawing.Point(569, 22);
+            this.resetButton.Location = new System.Drawing.Point(410, 13);
+            this.resetButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.resetButton.Name = "resetButton";
-            this.resetButton.Size = new System.Drawing.Size(123, 40);
+            this.resetButton.Size = new System.Drawing.Size(164, 50);
             this.resetButton.TabIndex = 0;
             this.resetButton.Text = "重開一局";
             this.resetButton.UseVisualStyleBackColor = true;
@@ -44,15 +45,15 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackgroundImage = global::gomoku.Properties.Resources.board;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.ClientSize = new System.Drawing.Size(734, 711);
+            this.ClientSize = new System.Drawing.Size(979, 889);
             this.Controls.Add(this.resetButton);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "五子棋";
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
