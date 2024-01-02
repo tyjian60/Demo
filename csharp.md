@@ -1525,7 +1525,10 @@ list.Add(644);
 list.Sort();
 ```
 [MSDN - List <T> 類別](https://docs.microsoft.com/zh-tw/dotnet/api/system.collections.generic.list-1?view=netcore-3.1)
+    
 
+---    
+    
 ## 50. Generics 泛型 的初步介紹
 
 教學影片：[小山的 C# 教學 - 第 50 課 - 泛型 (Generics) 的初步介紹
